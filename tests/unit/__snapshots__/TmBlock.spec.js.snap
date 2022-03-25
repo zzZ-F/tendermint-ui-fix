@@ -1,0 +1,364 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TmBlock.vue has the expected html structure 1`] = `
+<div>
+  <section class="tm-part">
+    <div class="tm-part-container">
+      <!---->
+      <main class="tm-part-main">
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Block Hash
+              </div>
+              <div class="tm-li-dd">
+                asdf
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </section>
+  <section class="tm-part">
+    <div class="tm-part-container">
+      <header class="tm-part-header">
+        <div class="tm-part-header-container">
+          <div class="tm-part-title h5">
+            Header
+          </div>
+          <menu class="tm-part-menu"></menu>
+        </div>
+      </header>
+      <main class="tm-part-main">
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Chain ID
+              </div>
+              <div class="tm-li-dd">
+                1
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Time
+              </div>
+              <div class="tm-li-dd">
+                January 5th, 1988
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Transactions
+              </div>
+              <div class="tm-li-dd">
+                3
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Last Commit Hash
+              </div>
+              <div class="tm-li-dd">
+                4
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Validators Hash
+              </div>
+              <div class="tm-li-dd">
+                5
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                App Hash
+              </div>
+              <div class="tm-li-dd">
+                6
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </section>
+  <section class="tm-part">
+    <div class="tm-part-container">
+      <header class="tm-part-header">
+        <div class="tm-part-header-container">
+          <div class="tm-part-title h5">
+            Last Block
+          </div>
+          <menu class="tm-part-menu"></menu>
+        </div>
+      </header>
+      <main class="tm-part-main">
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Hash
+              </div>
+              <div class="tm-li-dd">
+                7
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Parts Total
+              </div>
+              <div class="tm-li-dd">
+                8
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Parts Hash
+              </div>
+              <div class="tm-li-dd">
+                9
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </section>
+  <section class="tm-part">
+    <div class="tm-part-container">
+      <header class="tm-part-header">
+        <div class="tm-part-header-container">
+          <div class="tm-part-title h5">
+            Precommit
+          </div>
+          <menu class="tm-part-menu"></menu>
+        </div>
+      </header>
+      <main class="tm-part-main">
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Address
+              </div>
+              <div class="tm-li-dd">
+                10
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Index
+              </div>
+              <div class="tm-li-dd">
+                11
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Round
+              </div>
+              <div class="tm-li-dd">
+                12
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li" name="proposal">
+          <div class="tm-li-container">
+            <div class="tm-li-thumb">
+              <!---->
+            </div>
+            <div class="tm-li-dl">
+              <div class="tm-li-dt">
+                Sig (13)
+              </div>
+              <div class="tm-li-dd">
+                14
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </section>
+  <section class="tm-part">
+    <div class="tm-part-container">
+      <header class="tm-part-header">
+        <div class="tm-part-header-container">
+          <div class="tm-part-title h5">
+            Transactions
+          </div>
+          <menu class="tm-part-menu"></menu>
+        </div>
+      </header>
+      <main class="tm-part-main">
+        <div class="tm-li-tx tm-li-tx-received">
+          <div class="tx-icon">
+            <i class="material-icons">add_circle</i>
+          </div>
+          <div class="tx-container">
+            <div class="tx-element tx-coins">
+              <div class="tx-coin">
+                <div class="key">
+                  JBCOINS
+                </div>
+                <div class="value">
+                  1,234.00
+                </div>
+              </div>
+            </div>
+            <div>
+              <!---->
+              <div class="tx-element tx-address">
+                Received from tb1da6xsetjg9jxgun9wdesexv05j
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li-tx tm-li-tx-received">
+          <div class="tx-icon">
+            <i class="material-icons">add_circle</i>
+          </div>
+          <div class="tx-container">
+            <div class="tx-element tx-coins">
+              <div class="tx-coin">
+                <div class="key">
+                  JBCOINS
+                </div>
+                <div class="value">
+                  1,234.00
+                </div>
+              </div>
+            </div>
+            <div>
+              <!---->
+              <div class="tx-element tx-address">
+                Received from tb1d4u5zerywfjhxuc9nudvw
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tm-li-tx tm-li-tx-received">
+          <div class="tx-icon">
+            <i class="material-icons">add_circle</i>
+          </div>
+          <div class="tx-container">
+            <div class="tx-element tx-coins">
+              <div class="tx-coin">
+                <div class="key">
+                  JBCOINS
+                </div>
+                <div class="value">
+                  1,234.00
+                </div>
+              </div>
+              <div class="tx-coin">
+                <div class="key">
+                  FABOCOINS
+                </div>
+                <div class="value">
+                  1.00
+                </div>
+              </div>
+              <div class="tx-coin">
+                <div class="key">
+                  MATTCOINS
+                </div>
+                <div class="value">
+                  42.00
+                </div>
+              </div>
+            </div>
+            <div>
+              <!---->
+              <div class="tx-element tx-address">
+                Received from tb1da6xsetjg9jxgun9wdesexv05j
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </section>
+</div>
+`;
